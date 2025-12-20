@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Drama",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-20T07:55:17.783354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "So Much Drama",
+      "artist": "Luniz",
+      "has_synced": true,
+      "path": "select/01_So_Much_Drama_Luniz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drama Queen",
+      "artist": "Moi Caprice",
+      "has_synced": true,
+      "path": "select/02_Drama_Queen_Moi_Caprice.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sticky Drama",
+      "artist": "Oneohtrix Point Never",
+      "has_synced": false,
+      "path": "select/03_Sticky_Drama_Oneohtrix_Point_Never.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drama",
+      "artist": "Bladee feat. Mechatok",
+      "has_synced": true,
+      "path": "select/04_Drama_Bladee_feat._Mechatok.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drama",
+      "artist": "Bladee & Mechatok",
+      "has_synced": true,
+      "path": "select/05_Drama_Bladee_&_Mechatok.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drama",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/06_Drama_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Daytime Drama",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/07_Daytime_Drama_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drama",
+      "artist": "Erika de Casier",
+      "has_synced": true,
+      "path": "select/08_Drama_Erika_de_Casier.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kitchen Sink Drama",
+      "artist": "Soft Cell",
+      "has_synced": true,
+      "path": "select/09_Kitchen_Sink_Drama_Soft_Cell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SIR BAUDELAIRE (feat. DJ Drama)",
+      "artist": "Tyler, The Creator feat. DJ Drama",
+      "has_synced": true,
+      "path": "select/10_SIR_BAUDELAIRE_(feat._DJ_Drama)_Tyler,_The_Creator_feat._DJ_Drama.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drama (Mortal Kombat Fatality)",
+      "artist": "Artifacts",
+      "has_synced": true,
+      "path": "select/11_Drama_(Mortal_Kombat_Fatality)_Artifacts.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drama",
+      "artist": "Bitter Sweet",
+      "has_synced": false,
+      "path": "select/12_Drama_Bitter_Sweet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Action and Drama",
+      "artist": "Bis",
+      "has_synced": false,
+      "path": "select/13_Action_and_Drama_Bis.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drama Club",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/14_Drama_Club_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Adrenaline (feat. Twista & Psycho Drama)",
+      "artist": "Cam'ron",
+      "has_synced": true,
+      "path": "select/15_Adrenaline_(feat._Twista_&_Psycho_Drama)_Cam'ron.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drama",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Drama_aespa.txt"
+    }
+  ]
+}
